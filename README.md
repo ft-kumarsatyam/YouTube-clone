@@ -36,13 +36,13 @@
 
 ## Frontend Repo
 
-Frontend was developed with vue js and vuetify [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
+Frontend was developed with vue js and vuetify 
 
 ## API Documentation
 
 Hosted on netlify: [Coming Soon]()
 
-Extensive and testing documentation with postman: [VueTube API](https://documenter.getpostman.com/view/9407876/SzYaVdtC?version=latest)
+Extensive and testing documentation with postman: 
 
 ## Database Model
 
@@ -120,32 +120,6 @@ node seeder -d
 ```console
 node run dev
 ```
-
-## Screenshots
-
-> Delete the screenshot folder if you download this code (Screenshots folder is 3.14mb in size).
-
-### Sign In
-
-![Screenshot](screenshots/20%20-%20Sign%20in.jpg)
-
-### Sign Up
-
-![Screenshot](screenshots/21%20-%20Sign%20up.jpg)
-
-### Home Page
-
-![Screenshot](screenshots/1%20-%20Home.jpg)
-
-### Watch Page
-
-![Screenshot](screenshots/7%20-%20Watch.jpg)
-
-### Upload Thumbnail Modal
-
-![Screenshot](screenshots/16%20-%20Upload%20Thumbnail%20Modal.jpg)
-
-For more screenshots check out the vue frontend repo [VueTube](https://github.com/techreagan/vue-nodejs-youtube-clone)
 
 ## License
 
